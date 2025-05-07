@@ -196,6 +196,9 @@ public class FormularioController implements Initializable {
 
         Extraccion seleccionada = tvExtracciones.getSelectionModel().getSelectedItem();
 
+        // Seteo los campos con los valores que se hallen en los controles
+        
+        // Ejecuto update
     }
 
     @FXML
